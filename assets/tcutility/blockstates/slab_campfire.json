@@ -1,0 +1,12 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "tcutility:campfire"
+    },
+    "variants": {
+        "half=bottom": [{}],
+        "half=top": {"model": "tcutility:campfire_up"},
+        "half=double": {"model": "tcutility:cube", "textures": {"texture": "tcutility:blocks/stripped_oak_log"}},
+        "inventory": [{}]
+    }
+}

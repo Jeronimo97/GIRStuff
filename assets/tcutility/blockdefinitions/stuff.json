@@ -1,0 +1,108 @@
+{
+    "copper": {
+        "hardness": 1,
+        "material": "iron",
+        "soundtype": "metal",
+        "opacity": 0,
+        "states": ["cube", "stair", "slab"]
+    },
+    "copper_oxidized": {
+        "hardness": 1,
+        "material": "iron",
+        "soundtype": "metal",
+        "opacity": 0,
+        "states": ["cube", "stair", "slab"]
+    },
+    "copper_oxidized_cut": {
+        "hardness": 1,
+        "material": "iron",
+        "soundtype": "metal",
+        "opacity": 0,
+        "states": ["cube", "stair", "slab"]
+    },
+    "magma": {
+        "hardness": 1,
+        "material": "rock",
+        "soundtype": "stone",
+        "opacity": 0,
+        "states": ["stair", "slab"]
+    },
+    "coal": {
+        "hardness": 1,
+        "material": "rock",
+        "soundtype": "stone",
+        "opacity": 0,
+        "states": ["stair", "slab"]
+    },
+    "deepslate": {
+        "hardness": 1,
+        "material": "rock",
+        "soundtype": "stone",
+        "opacity": 0,
+        "states": ["cube", "stair", "slab", "wall"]
+    },
+    "deepslate_bricks": {
+        "hardness": 1,
+        "material": "rock",
+        "soundtype": "stone",
+        "opacity": 0,
+        "states": ["cube", "stair", "slab", "wall"]
+    },
+    "deepslate_tiles": {
+        "hardness": 1,
+        "material": "rock",
+        "soundtype": "stone",
+        "opacity": 0,
+        "states": ["cube", "stair", "slab", "wall"]
+    },
+    "deepslate_polished": {
+        "hardness": 1,
+        "material": "rock",
+        "soundtype": "stone",
+        "opacity": 0,
+        "states": ["cube", "stair", "slab", "wall"]
+    },
+    "deepslate_cobbled": {
+        "hardness": 1,
+        "material": "rock",
+        "soundtype": "stone",
+        "opacity": 0,
+        "states": ["cube", "stair", "slab", "wall"]
+    },
+    "deepslate_chiseled": {
+        "hardness": 1,
+        "material": "rock",
+        "soundtype": "stone",
+        "opacity": 0,
+        "states": ["cube", "stair", "slab", "wall"]
+    },
+    "campfire": {
+        "hardness": 1,
+        "material": "wood",
+        "soundtype": "wood",
+        "opacity": 0,
+        "states": ["slab"]
+    },
+    "shutter_mint": {
+        "hardness": 1,
+        "material": "wood",
+        "soundtype": "wood",
+        "opacity": 0,
+        "states": ["trapdoor"]
+    },
+    "shutter_red": {
+        "hardness": 1,
+        "material": "wood",
+        "soundtype": "wood",
+        "opacity": 0,
+        "states": ["trapdoor"]
+    },
+    "white": {
+        "hardness": 1,
+        "material": "rock",
+        "soundtype": "stone",
+        "opacity": 0,
+        "hitbox": [0,0,12,16,16,16],
+        "states": ["garage", "bigdoor", "door"]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "leaves_orange_autumn": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "leaves_yellow_autumn": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "leaves_pink_cherry": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "leaves_white_cherry": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "leaves_oak": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "leaves_spruce": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "leaves_birch": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "leaves_jungle": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "leaves_acacia": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "leaves_dark_oak": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube"]
+    },
+    "vines": {
+        "hardness": 1,
+        "material": "anvil",
+        "soundtype": "plant",
+        "opacity": 0,
+        "states": ["cube_rot"]
+    }
+}
