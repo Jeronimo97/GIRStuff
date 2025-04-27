@@ -97,6 +97,13 @@
         "opacity": 0,
         "states": ["trapdoor"]
     },
+    "shutter_brown": {
+        "hardness": 1,
+        "material": "wood",
+        "soundtype": "wood",
+        "opacity": 0,
+        "states": ["trapdoor"]
+    },
     "white": {
         "hardness": 1,
         "material": "rock",

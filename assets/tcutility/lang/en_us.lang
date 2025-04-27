@@ -49,3 +49,6 @@ tile.wall_deepslate_chiseled.name=Chiseled Deepslate Wall
 tile.slab_campfire.name=Wooden Path
 tile.latch_shutter_mint.name=Shutter mint
 tile.latch_shutter_red.name=Shutter red
+tile.latch_shutter_brown.name=Shutter brown
+tile.garage_white.name=Garage gate white
+tile.garage_white_gate.name=Garage gate white

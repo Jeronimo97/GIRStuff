@@ -49,3 +49,6 @@ tile.wall_deepslate_chiseled.name=Gemeißelte Tiefenschiefer Mauer
 tile.slab_campfire.name=Holzpfad
 tile.latch_shutter_mint.name=Fensterladen Minz
 tile.latch_shutter_red.name=Fensterladen Rot
+tile.latch_shutter_brown.name=Fensterladen Braun
+tile.garage_white.name=Garagentor weiß
+tile.garage_white_gate.name=Garagentor weiß
